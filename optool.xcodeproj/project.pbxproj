@@ -188,6 +188,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = FA0D29601990A2E300EC5F74;
@@ -389,6 +390,7 @@
 				CURRENT_PROJECT_VERSION = 0.2;
 				DYLIB_COMPATIBILITY_VERSION = 0.1;
 				DYLIB_CURRENT_VERSION = 0.2;
+				MACOSX_DEPLOYMENT_TARGET = 12.4;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
@@ -401,6 +403,7 @@
 				CURRENT_PROJECT_VERSION = 0.2;
 				DYLIB_COMPATIBILITY_VERSION = 0.1;
 				DYLIB_CURRENT_VERSION = 0.2;
+				MACOSX_DEPLOYMENT_TARGET = 12.4;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
